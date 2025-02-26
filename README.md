@@ -1,6 +1,8 @@
-# ML_fromScratch <img src="./images/MLrobot.PNG" align="right" width="300" />
+# ML_fromScratch <img src="./images/MLrobot.PNG" align="right" width="250" />
 A collection of foundational Machine Learning algorithms built from scratch to demystify the core concepts behind them.
-
+<br><br>
+<br><br>
+<br><br>
 ## Context
 
 This series of notebooks and libraries aims to build foundational Machine Learning models from scratch using only **NumPy** (without any **ML frameworks**). The goal is to strengthen understanding by implementing these models step by step.
