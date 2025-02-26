@@ -7,7 +7,7 @@ A collection of foundational Machine Learning algorithms built from scratch to d
 
 This series of notebooks and libraries aims to build foundational Machine Learning models from scratch using only **NumPy** (without any **ML frameworks**). The goal is to strengthen understanding by implementing these models step by step.
 
-The project is structured into four parts, guided by my mentor Artem Yankov and inspired by the Machine Learning Specializations by Andrew Ng.
+The project is structured into four parts, guided by my mentor **Artem Yankov** and inspired by the Machine Learning Specializations by **Andrew Ng**.
 
 For Part 3 (Neural Networks), we explicitly include the mathematical derivations behind forward and backpropagation, providing a deeper understanding of how these models learn.
 
@@ -27,14 +27,14 @@ Beyond implementing algorithms from scratch, we uncovered key insights during th
 
 
 #### Linear Regression:
-<img src="./images/Normalization.png" width="900" />
+<img src="./images/Normalization.png" width="850" />
 
 Feature scaling significantly accelerates convergence. The cost function `J(w,b)` reaches a lower value more efficiently, even when starting from zero-initialized weights.
 
 
 #### Logistic Regression
 
-<img src="./images/LogR-NO-Scaling.png" width="450" /> <img src="./images/LogR-WITH-Scaling.png" width="458" />
+<img src="./images/LogR-NO-Scaling.png" width="400" /> <img src="./images/LogR-WITH-Scaling.png" width="408" />
 
 Observe the difference of using Logistic Regression without(left) and with(right) scaling. Scaling ensures better convergence and prevents numerical instability.
 
