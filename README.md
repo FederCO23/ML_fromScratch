@@ -23,15 +23,18 @@ For Part 3 (Neural Networks), we explicitly include the mathematical derivations
 
 ### A. The relevance of Scaling
 
+Beyond implementing algorithms from scratch, we uncovered key insights during the process. One is the crucial role of feature scaling in optimization and convergence. The other highlights how neural networks evolve during training, shedding some light on parameter updates and learning dynamics.
+
+
 #### Linear Regression:
-<img src="./images/Normalization.png" width="600" />
+<img src="./images/Normalization.png" width="900" />
 
 Feature scaling significantly accelerates convergence. The cost function `J(w,b)` reaches a lower value more efficiently, even when starting from zero-initialized weights.
 
 
 #### Logistic Regression
 
-<img src="./images/LogR-NO-Scaling.png" width="350" /> <img src="./images/LogR-WITH-Scaling.png" width="357" />
+<img src="./images/LogR-NO-Scaling.png" width="450" /> <img src="./images/LogR-WITH-Scaling.png" width="458" />
 
 Observe the difference of using Logistic Regression without(left) and with(right) scaling. Scaling ensures better convergence and prevents numerical instability.
 
