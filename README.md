@@ -5,11 +5,11 @@ A collection of foundational Machine Learning algorithms built from scratch to d
 <br><br>
 ## Context
 
-This series of notebooks and libraries aims to build foundational Machine Learning models from scratch using only **NumPy** (without any **ML frameworks**). The goal is to strengthen understanding by implementing these models step by step.
+This series of notebooks and libraries aims to build foundational Machine Learning models from scratch using **NumPy** and other basic libraries, without relying on high-level ML frameworks. The goal is to strengthen understanding by implementing each model step by step.
 
-The project is structured into four parts, guided by my mentor **Artem Yankov** and inspired by the Machine Learning Specializations by **Andrew Ng**.
+The project was originally structured into four parts, guided by my mentor **Artem Yankov** (@Google) and inspired by the **Machine Learning Specializations** by **Andrew Ng**. I’ve since continued expanding the repository by adding more models, such as **Naive Bayes**, to enrich the collection.
 
-For Part 3 (Neural Networks), we explicitly include the mathematical derivations behind forward and backpropagation, providing a deeper understanding of how these models learn.
+Notably, in **Part 3 – Neural Networks**, we include detailed mathematical derivations of forward and backward propagation, providing a deeper understanding of how these models learn.
 
 
 ## Summary
@@ -18,6 +18,8 @@ For Part 3 (Neural Networks), we explicitly include the mathematical derivations
 - [part 2](./ML_firstSteps_P2.ipynb): Logistic Regression
 - [part 3](./ML_firstSteps_P3.ipynb): Neural Networks (for Regression and Classification tasks)
 - [part 4](./ML_firstSteps_P4.ipynb): Neural Networks applied to **MNIST dataset** (3 layers NN using a custom-built library)
+- [part 5](./ML_fromScratch_P5.ipynb): Naive Bayes
+
 
 ## Highlights
 
