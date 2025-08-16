@@ -569,8 +569,8 @@ def scaleX2F(X):
     return Xn
 
 def load_data(bin=True):
-    X = np.load("data/X.npy")
-    y = np.load("data/y.npy")
+    X = np.load("../data/X.npy")
+    y = np.load("../data/y.npy")
     if bin:
         X = X[0:1000]
         y = y[0:1000]
