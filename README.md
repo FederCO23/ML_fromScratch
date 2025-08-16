@@ -15,17 +15,17 @@ Notably, in **Part 3 – Neural Networks**, we include detailed mathematical der
 ## Summary
 
 **Core Parts**
-- [CP_part1](./ML_firstSteps_P1.ipynb): **Linear Regression** (Simple LR, Multiple LR and Polynomial LR)
-- [CP_part2](./ML_firstSteps_P2.ipynb): **Logistic Regression**
-- [CP_part3](./ML_firstSteps_P3.ipynb): **Neural Networks** (Regression & Classification)
-- [CP_part4](./ML_firstSteps_P4.ipynb): **Neural Networks applied to MNIST dataset** (3 layers NN using a custom-built library)
-- [CP_part5](./ML_fromScratch_P5.ipynb): **Naive Bayes**
+- [CP_part1](./notebook/ML_firstSteps_P1.ipynb): **Linear Regression** (Simple LR, Multiple LR and Polynomial LR)
+- [CP_part2](./notebook/ML_firstSteps_P2.ipynb): **Logistic Regression**
+- [CP_part3](./notebook/ML_firstSteps_P3.ipynb): **Neural Networks** (Regression & Classification)
+- [CP_part4](./notebook/ML_firstSteps_P4.ipynb): **Neural Networks applied to MNIST dataset** (3 layers NN using a custom-built library)
+- [CP_part5](./notebook/ML_fromScratch_P5.ipynb): **Naive Bayes**
 
 **Word Embeddings**
-- [WE_part1](./ML_fromScratch_WE_P1.ipynb): custom **Word2Vec** (SGNS) implementation
+- [WE_part1](./notebook/ML_fromScratch_WE_P1.ipynb): custom **Word2Vec** (SGNS) implementation
 
 **Intuitions**
-- [I_part1](./ML_intuitions_P1.ipynb):  **PCA** insights, visuals and geometric intuition.
+- [I_part1](./notebook/ML_intuitions_P1.ipynb):  **PCA** insights, visuals and geometric intuition.
 
 
 ## Highlights
