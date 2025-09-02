@@ -1,0 +1,14 @@
+{
+  "embed_dim": 300,
+  "vocab_size": 161,
+  "tokens_needed": 160,
+  "found": 156,
+  "missing": 4,
+  "coverage": 0.975,
+  "examples_missing": [
+    "can't",
+    "i'm",
+    "it's",
+    "knn"
+  ]
+}
