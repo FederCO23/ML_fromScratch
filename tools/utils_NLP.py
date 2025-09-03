@@ -197,7 +197,7 @@ def clean_text(
     return s
 
 
-def tokenize(s: str) -> str:
+def tokenize(s: str) -> List[str]:
     """
     Minimal whitespace tokenizer.
 
