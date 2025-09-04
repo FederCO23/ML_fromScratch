@@ -20,6 +20,7 @@ Notably, in **Part 3 – Neural Networks**, we include detailed mathematical der
 - [CP_part3](./notebooks/ML_firstSteps_P3.ipynb): **Neural Networks** (Regression & Classification)
 - [CP_part4](./notebooks/ML_firstSteps_P4.ipynb): **Neural Networks applied to MNIST dataset** (3 layers NN using a custom-built library)
 - [CP_part5](./notebooks/ML_fromScratch_P5.ipynb): **Naive Bayes**
+- [CP_part6](./notebooks/ML_fromScratch_P6.ipynb): **KNN & LSH**
 
 **Word Embeddings**
 - [WE_part1](./notebooks/ML_fromScratch_WE_P1.ipynb): custom **Word2Vec** (SGNS) implementation
