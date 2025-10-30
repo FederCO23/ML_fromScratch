@@ -29,7 +29,7 @@ Notably, in **Part 3 – Neural Networks**, we include detailed mathematical der
 - [I_part1](./notebooks/ML_intuitions_P1.ipynb):  **PCA** insights, visuals and geometric intuition.
 
 **CNN**
-- [CNN_part1](https://github.com/yourusername/FedeNet):  FedeNet: Dual-Stream **CNN** for Spatial x Frequency Cues
+- [CNN_part1](https://github.com/FederCO23/FedeNet):  FedeNet: Dual-Stream **CNN** for Spatial x Frequency Cues
 
 
 
